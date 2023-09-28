@@ -1,0 +1,17 @@
+오전 10:52 2023-09-28
+
+
+함수코드
+
+function numbering( ){
+         var i=0 ;
+        while(i <20) }
+          document . write(i+"<tr />") ;
+          i=+ 1 ;
+      }
+}
+numnrtinh( ) ;
+numnrtinh( ) ;
+numnrtinh( ) ;
+numnrtinh( ) ;
+numnrtinh( ) ;
